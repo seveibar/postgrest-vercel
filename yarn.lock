@@ -272,10 +272,10 @@ path-is-absolute@^1.0.0:
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
   integrity sha1-F0uSaHNVNP+8es5r9TpanhtcX18=
 
-postgrest@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/postgrest/-/postgrest-1.0.1.tgz#70a9cc80ace3fca16e66dbf5c0b592677df700ea"
-  integrity sha512-DR2ohbjCZL5Sv1Qj1OYS4CjMfyvpecaDmwybv1RRTyxSGr8oS0AHn0WJTxfhNOcL5+CMWIYGCXYVgi1P3zC/PA==
+postgrest@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/postgrest/-/postgrest-1.0.2.tgz#003a2fd223b9f8972400e9e245f50abcaf5c441e"
+  integrity sha512-/Hz0ZbsNRZxiPR4T6L7QFPl2GXO9p6q7NtfKBc6ldwLAofLvkMKXMa9TaCWMg4MVpkshsi0/4s13BkzNrc4yRg==
   dependencies:
     bent "^7.3.10"
     decamelize "^4.0.0"
