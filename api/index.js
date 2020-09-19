@@ -39,7 +39,7 @@ async function startOrResetServer() {
       }
     } catch (e) {
       console.log(e.toString())
-      console.log("RESTARTING SERVER")
+      console.log("Restarting postgrest...")
       await server.stop()
       await startServer()
     }
